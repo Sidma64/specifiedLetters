@@ -14,9 +14,11 @@ Finish does, could do should fact write line fix GamEs fuck.
 Does that meAn what I think it is after.
 Lick ride bud love afternoon.
 ```
-**Terminal Command:**
+**Terminal**
 ```
-program file.txt output.txt ae
+Input: input.txt
+Output: output.txt
+Letters: ae
 ```
 ### Output:
 **output.txt**
